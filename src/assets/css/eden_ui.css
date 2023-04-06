@@ -1,0 +1,47 @@
+.AppModuleClass {
+  margin: 0 2px 0 0 ;
+  padding: 4px 4px;
+  font-size: 12px;
+  background: #eeebed;
+  border: 1px solid rgba(141, 149, 155, 0.38);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.AppModuleClass:hover {
+  background: rgba(255, 141, 42, 0.28);
+  border: 1px solid rgba(255, 141, 42, 0.38);
+}
+
+.ExistingFlowClass {
+  margin: 0 0 1px 30px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.ExistingFlowClass:hover {
+  background: rgba(0, 168, 57, 0.28);
+  border-radius: 3px;
+}
+
+.ExistingDataSourcesClass {
+  margin: 0 0 1px 12px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.ExistingDataSourcesClass:hover {
+  background: rgba(255, 35, 36, 0.28);
+  border-radius: 3px;
+}
+
+.ExistingMethodAndVariableClass {
+  margin: 0 0 1px 12px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.ExistingMethodAndVariableClass:hover {
+  background: rgba(255, 161, 42, 0.28);
+  border-radius: 3px;
+}
